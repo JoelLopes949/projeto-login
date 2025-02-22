@@ -49,6 +49,7 @@ Grandes telas: acima de 1200px
     }
 
     section#login > div#imagem {
+        background-position: right top;
         width: 50%;
         height: 100%;
     }
